@@ -26,6 +26,9 @@
 body{
     background-color: black;
     color: white;
+    background-image: url("https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/2a1cadc2-f524-46f3-9566-47e0aebaf6be/SanSiro-Stadio-3.jpg?auto=format");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .topo{
@@ -132,9 +135,6 @@ flex-wrap: wrap;
 justify-content: space-evenly;
 padding-top: 1% ;
 padding-bottom: 1%;
-background-image: url("https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/2a1cadc2-f524-46f3-9566-47e0aebaf6be/SanSiro-Stadio-3.jpg?auto=format");
-background-repeat: no-repeat;
-background-size: cover;
 }
 
 a{
